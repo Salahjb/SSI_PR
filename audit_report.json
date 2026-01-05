@@ -1,0 +1,27 @@
+{
+    "timestamp": "2025-12-31 15:58:25.905058",
+    "project": "Projet Securite Zero Trust",
+    "student": "ELJABLY Salaheddine",
+    "tests": [
+        {
+            "id": "T3.1",
+            "description": "Service Web Secure (HTTPS) Actif",
+            "status": "PASS"
+        },
+        {
+            "id": "T5.2",
+            "description": "Service VPN (OpenVPN) Actif",
+            "status": "PASS"
+        },
+        {
+            "id": "T2.4",
+            "description": "Journalisation Pare-feu (Logs)",
+            "status": "FAIL"
+        },
+        {
+            "id": "T7.1",
+            "description": "Service IDS (Snort) Actif",
+            "status": "PASS"
+        }
+    ]
+}
